@@ -1,1 +1,1 @@
-# OpenGenus
+This is all about my internship in the OpenGenus(OpenGenus Foundation is one of the largest open-source communities and is enabling people to work offline and make knowledge more accessible. It is sponsored by DigitalOcean, GitHub and Discourse) and where I wrote the documentary in Java.
